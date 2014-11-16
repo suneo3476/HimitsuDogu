@@ -10,8 +10,9 @@ Wikipedia記事のライセンスはクリエイティブ・コモンズ 表示-
 要はライセンスを示せば二次利用オッケー(だったはず)。
 
 やったこと
-1.Wikipediaにアカウント作って編集権限得る
-2.一連のひみつ道具記事(例:[https://ja.wikipedia.org/wiki/ひみつ道具一覧_(あ-そ)|https://ja.wikipedia.org/wiki/ひみつ道具一覧_(あ-そ)] )を編集モードにして全文をコピペ&1つのファイルにまとめる
-3.抽出スクリプト書いて "node extract.js | output.txt" と叩いてテキストに流し込む
+
+1. Wikipediaにアカウント作って編集権限得る
+2. 一連のひみつ道具記事(例:[https://ja.wikipedia.org/wiki/ひみつ道具一覧_(あ-そ)|https://ja.wikipedia.org/wiki/ひみつ道具一覧_(あ-そ)] )を編集モードにして全文をコピペ&1つのファイルにまとめる
+3. 抽出スクリプト書いて "node extract.js | output.txt" と叩いてテキストに流し込む
 
 Hack Himitsu-Dogu
